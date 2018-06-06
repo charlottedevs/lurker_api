@@ -1,2 +1,0 @@
-class SlackChannel < ApplicationRecord
-end
